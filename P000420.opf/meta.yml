@@ -1,7 +1,7 @@
 id: P000420
 initial_creation_type: ocr
 created_at: 21/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:39:02.515827
 source_metadata:
   id: bdr:W1KG13603
   title: རྫོགས་པ་ཆེན་པོ་ཡེ་ཤེས་བླ་མའི་སྤྱི་དོན་སྙིང་ཐིག་མ་བུའི་ལྡེ་མིག་ཀུན་བཟང་ཐུགས་ཀྱི་ཊི་ཀ
@@ -14,3 +14,5 @@ source_metadata:
       volume_number: 1
       total_pages: 610
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
